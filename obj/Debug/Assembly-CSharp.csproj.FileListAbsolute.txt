@@ -1,0 +1,2 @@
+C:\project\HyperCasual\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\project\HyperCasual\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
